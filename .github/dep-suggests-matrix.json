@@ -1,1 +1,1 @@
-{"package":["adbcdrivermanager","arrow","bit64","clock","DBItest","dbplyr","dplyr"]}
+{"package":["adbcdrivermanager","arrow","bit64","clock","DBItest","dbplyr","dplyr","tibble","vctrs"]}
