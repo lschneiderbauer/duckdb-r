@@ -1,11 +1,14 @@
 <urlset xmlns = 'http://www.sitemaps.org/schemas/sitemap/0.9'>
 <url><loc>https://r.duckdb.org/404.html</loc></url>
+<url><loc>https://r.duckdb.org/CLAUDE.html</loc></url>
 <url><loc>https://r.duckdb.org/LICENSE-text.html</loc></url>
 <url><loc>https://r.duckdb.org/RELEASE.html</loc></url>
 <url><loc>https://r.duckdb.org/authors.html</loc></url>
+<url><loc>https://r.duckdb.org/copilot-instructions.html</loc></url>
 <url><loc>https://r.duckdb.org/index.html</loc></url>
 <url><loc>https://r.duckdb.org/news/index.html</loc></url>
 <url><loc>https://r.duckdb.org/reference/backend-duckdb.html</loc></url>
+<url><loc>https://r.duckdb.org/reference/default_conn.html</loc></url>
 <url><loc>https://r.duckdb.org/reference/deprecated.html</loc></url>
 <url><loc>https://r.duckdb.org/reference/duckdb-package.html</loc></url>
 <url><loc>https://r.duckdb.org/reference/duckdb.html</loc></url>
@@ -17,5 +20,6 @@
 <url><loc>https://r.duckdb.org/reference/duckdb_register_arrow.html</loc></url>
 <url><loc>https://r.duckdb.org/reference/duckdb_result-class.html</loc></url>
 <url><loc>https://r.duckdb.org/reference/index.html</loc></url>
+<url><loc>https://r.duckdb.org/reference/sql_query.html</loc></url>
 </urlset>
 
